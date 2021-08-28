@@ -11,9 +11,15 @@
 - 🙌 I have also started to contribute in open-source.
 
 ### Connect with me:
+</br>
+</br>
 
 [![Linkedin](https://img.shields.io/badge/-gautam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautam-chutani-2762171b9/)](https://www.linkedin.com/in/gautam-chutani-2762171b9/)
 [![Gmail](https://img.shields.io/badge/-gautamabd17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gautamabd17@gmail.com)](mailto:gautamabd17@gmail.com)
+
+</br>
+</br>
+---
 
 ### Languages, Frameworks, Libraries, Tools I use :
 
@@ -26,7 +32,7 @@
 [<img align="left" alt="CSS" height="35px" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="Bootstrap" height="35px" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
 [<img align="left" alt="Javascript" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="Flask" width="70px" src="https://raw.githubusercontent.com/mjhea0/awesome-flask/main/flask-logo.svg" />][flask]
+[<img align="left" alt="Flask" width="65px" src="https://raw.githubusercontent.com/mjhea0/awesome-flask/main/flask-logo.svg" />][flask]
 [<img align="left" alt="Jupyter" width="34px" src="https://jupyter.org/assets/main-logo.svg" />][jupyter]
 [<img align="left" alt="GitHub" width="34px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
@@ -37,7 +43,7 @@
 
 
 ---
-**Github Stats:**
+### GitHub Stats :
 
 <p align="center">
   
