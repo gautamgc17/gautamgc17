@@ -37,17 +37,17 @@
 
 
 ---
+**Github Stats:**
 
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=verma-anushka&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&theme=dracula">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamgc17&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+</p>
 
 ---
 
-
-[![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamgc17&count_private=true&show_icons=true&hide_border=true&theme=vue)
 
 
 [linkedin]: https://www.linkedin.com/in/gautam-chutani-2762171b9/
