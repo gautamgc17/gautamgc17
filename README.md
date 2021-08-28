@@ -10,14 +10,13 @@
 - 😍 I'm really fond of `Python`.
 - 🙌 I have also started to contribute in open-source.
 
+</br>
+
 ### Connect with me:
-</br>
-</br>
 
 [![Linkedin](https://img.shields.io/badge/-gautam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautam-chutani-2762171b9/)](https://www.linkedin.com/in/gautam-chutani-2762171b9/)
 [![Gmail](https://img.shields.io/badge/-gautamabd17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gautamabd17@gmail.com)](mailto:gautamabd17@gmail.com)
 
-</br>
 </br>
 ---
 
