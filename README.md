@@ -47,6 +47,8 @@
 ---
 
 <img align="left" alt="gautamgc17" src="https://github-readme-stats.vercel.app/api?username=Gautam&show_icons=true&hide_border=true&count_private=true&theme=vue" />
+![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamgc17&count_private=true&show_icons=true&hide_border=true&theme=vue)
+
 
 [linkedin]: https://www.linkedin.com/in/gautam-chutani-2762171b9/
 [vscode]: https://code.visualstudio.com/
