@@ -10,7 +10,6 @@
 - 😍 I'm really fond of `Python`.
 - 🙌 I have also started to contribute in open-source.
 
-</br>
 
 ### Connect with me:
 
@@ -19,18 +18,19 @@
 
 </br>
 
+---
 
 ### Languages, Frameworks, Libraries, Tools I use :
----
+
 
 [<img align="left" alt="Python" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />][python]
 [<img align="left" alt="Pytorch" width="90px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg" />][pytorch]
 [<img align="left" alt="Keras" width="80px" src="https://keras.io/img/logo.png" />][keras]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="OpenCV" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png" />][opencv]
-[<img align="left" alt="HTML5" height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS" height="35px" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="Bootstrap" height="35px" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
+[<img align="left" alt="HTML5" height="35px" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="CSS" height="34px" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="Bootstrap" height="34px" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
 [<img align="left" alt="Javascript" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="Flask" width="65px" src="https://raw.githubusercontent.com/mjhea0/awesome-flask/main/flask-logo.svg" />][flask]
 [<img align="left" alt="Jupyter" width="34px" src="https://jupyter.org/assets/main-logo.svg" />][jupyter]
