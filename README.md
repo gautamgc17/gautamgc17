@@ -27,6 +27,7 @@
 [<img align="left" alt="Bootstrap" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][Bootstrap]
 [<img align="left" alt="JS" height="40px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="GitHub" width="34px" src="https://jupyter.org/assets/main-logo.svg" />][jupyter]
+[<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 
@@ -41,7 +42,7 @@
 ---
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janmejai2002&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamgc17&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -50,19 +51,6 @@
 
 <img align="left" alt="gautamgc17" src="https://github-readme-stats.vercel.app/api?username=gautamgc17&show_icons=true&hide_border=true&count_private=true&theme=vue" />
 
-[linkedin]: https://www.linkedin.com/in/janmejai-singh-minhas/
-[vscode]: https://code.visualstudio.com/
-[python]: https://www.python.org/
-[tensorflow]: https://www.tensorflow.org/
-[opencv]: https://opencv.org/
-[github]: https://github.com/
-[numpy]: https://numpy.org/
-[jupyter]: https://jupyter.org/
-[keras]: https://keras.io/
-[git]: https://git-scm.com/
-[flutter]: https://flutter.dev/
-[dart]: https://dart.dev/
-[android]: https://developer.android.com/
 
 
 
