@@ -36,14 +36,14 @@
 [<img align="left" alt="Jupyter" width="34px" src="https://jupyter.org/assets/main-logo.svg" />][jupyter]
 [<img align="left" alt="GitHub" width="34px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
+
+</br>
+</br>
+
 ---
-</br>
-</br>
-
-
 
 ### GitHub Stats :
----
+
 
 <p align="center">
   
