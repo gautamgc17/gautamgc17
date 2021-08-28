@@ -26,7 +26,7 @@
 [<img align="left" alt="CSS" height="35px" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="Bootstrap" height="35px" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][bootstrap]
 [<img align="left" alt="Javascript" width="34px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][javascript]
-[<img align="left" alt="Flask" src="https://raw.githubusercontent.com/mjhea0/awesome-flask/main/flask-logo.svg" />][flask]
+[<img align="left" alt="Flask" width="90px" src="https://raw.githubusercontent.com/mjhea0/awesome-flask/main/flask-logo.svg" />][flask]
 [<img align="left" alt="Jupyter" width="34px" src="https://jupyter.org/assets/main-logo.svg" />][jupyter]
 [<img align="left" alt="GitHub" width="34px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
@@ -46,7 +46,7 @@
 
 ---
 
-<img align="left" alt="gautamgc17" src="https://github-readme-stats.vercel.app/api?username=gautamgc17&show_icons=true&hide_border=true&count_private=true&theme=vue" />
+<img align="left" alt="gautamgc17" src="https://github-readme-stats.vercel.app/api?username=Gautam&show_icons=true&hide_border=true&count_private=true&theme=vue" />
 
 [linkedin]: https://www.linkedin.com/in/gautam-chutani-2762171b9/
 [vscode]: https://code.visualstudio.com/
