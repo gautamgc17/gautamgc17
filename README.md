@@ -22,6 +22,7 @@
 ## Languages, Frameworks, Libraries, Tools I use :
 
 <p align="center">
+<a href="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg"><img width="35" alt="ISO C++ Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/256px-ISO_C%2B%2B_Logo.svg.png"></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg" alt="pytorch" width="90" height="40"/> </a>
 <a href="https://keras.io/" target="_blank"> <img src="https://keras.io/img/logo.png" alt="keras" width="90" height="30"/> </a>
@@ -36,13 +37,13 @@
 
 ---
 
-### GitHub Stats :
+## GitHub Stats :
 
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=gautamgc17&hide=stars&show_icons=true&count_private=true&theme=vue&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamgc17&theme=vue">
+  <img src="https://github-readme-stats.vercel.app/api?username=gautamgc17&hide=stars&show_icons=true&count_private=true&theme=tokyonight&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamgc17&theme=tokyonight">
 
 </p>
 
