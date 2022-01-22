@@ -11,32 +11,28 @@
 - 🤔 I’m looking for help with open-source contributions.
 
 
-### Connect with me:
+## Connect with me:
 
 [![Linkedin](https://img.shields.io/badge/-gautam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautam-chutani-2762171b9/)](https://www.linkedin.com/in/gautam-chutani-2762171b9/)
 [![Gmail](https://img.shields.io/badge/-gautamabd17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gautamabd17@gmail.com)](mailto:gautamabd17@gmail.com)
 
-</br>
-
+ 
 ---
 
-### Languages, Frameworks, Libraries, Tools I use :
+## Languages, Frameworks, Libraries, Tools I use :
 
-
-[<img align="left" alt="Python" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />][python]
-[<img align="left" alt="Pytorch" width="90px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg" />][pytorch]
-[<img align="left" alt="Keras" width="80px" src="https://keras.io/img/logo.png" />][keras]
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="OpenCV" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png" />][opencv]
-[<img align="left" alt="HTML5" height="35px" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS" height="35px" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="Javascript" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="Flask" width="65px" src="https://raw.githubusercontent.com/mjhea0/awesome-flask/main/flask-logo.svg" />][flask]
-[<img align="left" alt="GitHub" width="34px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-
-
-</br>
-</br>
+<p align="center">
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg" alt="pytorch" width="90" height="40"/> </a>
+<a href="https://keras.io/" target="_blank"> <img src="https://keras.io/img/logo.png" alt="keras" width="90" height="30"/> </a>
+<a href="https://opencv.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png" alt="opencv" width="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="git" width="40" height="40"/> </a> 
+<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="opencv" width="60" height="40"/> </a>
+</p>
 
 ---
 
@@ -49,24 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamgc17&theme=vue">
 
 </p>
-
-
-
-
-
-[linkedin]: https://www.linkedin.com/in/gautam-chutani-2762171b9/
-[vscode]: https://code.visualstudio.com/
-[python]: https://www.python.org/
-[opencv]: https://opencv.org/
-[github]: https://github.com/
-[jupyter]: https://jupyter.org/
-[keras]: https://keras.io/
-[pytorch]: https://pytorch.org/
-[html]: https://html.com/
-[css]: https://en.wikipedia.org/wiki/CSS
-[bootstrap]: https://getbootstrap.com/
-[javascript]: https://www.javascript.com/
-[flask]: https://flask.palletsprojects.com/en/2.0.x/
 
 
 <!--
