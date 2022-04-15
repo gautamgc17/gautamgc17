@@ -1,7 +1,7 @@
 ## Hey, I'm Gautam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
-#### I'm pursuing BE in Electronics and Communication.
+#### I'm pursuing B.E in Electronics and Communication.
 
 - 🔭 I’m currently working on Deep Learning and Natural Language Processing Projects.
 - 🌱 I’m currently learning Web Development.
@@ -46,19 +46,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamgc17&theme=tokyonight">
 
 </p>
-
-
-<!--
-**gautamgc17/gautamgc17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
