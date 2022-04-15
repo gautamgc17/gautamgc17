@@ -1,7 +1,7 @@
 ## Hey, I'm Gautam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
-#### I'm pursuing B.E in Electronics and Communication.
+#### I'm pursuing BE in Electronics and Communication.
 
 - 🔭 I’m currently working on Deep Learning and Natural Language Processing Projects.
 - 🌱 I’m currently learning Web Development.
