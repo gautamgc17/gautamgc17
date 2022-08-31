@@ -4,7 +4,7 @@
 #### I'm pursuing B.E in Electronics and Communication.
 
 - 🔭 I’m currently working on Deep Learning and Natural Language Processing Projects.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning Backend Development.
 - 😎 Coding everyday to improve my skills in `Python` and `C++`.
 - 😍 I'm really fond of `Python`.
 - 👯 I’m looking to collaborate on projects and hackathons🤝.
