@@ -22,8 +22,8 @@
 ## Languages, Frameworks, Libraries, Tools I use :
 
 <p align="center">
-<a href="https://www.java.com/en/"><img width="90" alt="Java" src="https://static.javatpoint.com/core/images/java-logo1.png"></a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+ <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.java.com/en/"><img width="75" alt="Java" src="https://static.javatpoint.com/core/images/java-logo1.png"></a>
 <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg" alt="pytorch" width="90" height="40"/> </a>
 <a href="https://keras.io/" target="_blank"> <img src="https://keras.io/img/logo.png" alt="keras" width="90" height="30"/> </a>
 <a href="https://opencv.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png" alt="opencv" width="40"/> </a>
