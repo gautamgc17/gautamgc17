@@ -22,7 +22,7 @@
 ## Languages, Frameworks, Libraries, Tools I use :
 
 <p align="center">
-<a href="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg"><img width="35" alt="ISO C++ Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/256px-ISO_C%2B%2B_Logo.svg.png"></a>
+<a href="https://static.wikia.nocookie.net/java/images/e/e3/Java-logo-thumb.png/revision/latest?cb=20070104155523"><img width="35" alt="ISO C++ Logo" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/256px-ISO_C%2B%2B_Logo.svg.png](https://static.wikia.nocookie.net/java/images/e/e3/Java-logo-thumb.png/revision/latest?cb=20070104155523)"></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg" alt="pytorch" width="90" height="40"/> </a>
 <a href="https://keras.io/" target="_blank"> <img src="https://keras.io/img/logo.png" alt="keras" width="90" height="30"/> </a>
