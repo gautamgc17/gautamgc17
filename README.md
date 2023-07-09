@@ -17,7 +17,7 @@
 [![Gmail](https://img.shields.io/badge/-gautamabd17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gautamabd17@gmail.com)](mailto:gautamabd17@gmail.com)
 
  
----
+----
 
 ## Languages, Frameworks, Libraries, Tools I use :
 
@@ -34,6 +34,17 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="60" height="40"/> </a>
 <a href="https://go.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Golang" width="60" height="40"/> </a>
+</p>
+
+----
+
+## GitHub Stats :
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=gautamgc17&hide=stars&show_icons=true&count_private=true&theme=tokyonight&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamgc17&theme=tokyonight">
+
 </p>
 
 
