@@ -1,10 +1,10 @@
 ## Hey, I'm Gautam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
-#### I'm an AI Engineer exploring AI technologies, building reliable backend systems, and simplifying DevOps and MLOps workflows
+#### I'm an AI Engineer exploring AI technologies, building reliable backend systems, and simplifying MLOps workflows.
 
 - 🔭 I’m currently working on `Generative AI` based projects.
-- 🌱 I’m currently learning DevOps.
+- 🌱 I’m currently learning `LLMOps`.
 - 😎 Coding everyday to improve my skills in `Python` and `Java`.
 - 👯 I’m looking to collaborate on projects and hackathons🤝.
 - 🤔 I’m looking for help with open-source contributions and publishing research papers.
