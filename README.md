@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on `Generative AI` based projects.
 - 🌱 I’m currently learning `LLMOps`.
-- 😎 Coding everyday to improve my skills in `Python` and `Java`.
+- 😎 Coding everyday to improve my skills in `Python` and `Golang`.
 - 👯 I’m looking to collaborate on projects and hackathons🤝.
 - 🤔 I’m looking for help with open-source contributions and publishing research papers.
 - 🚀 I regularly write about AI, backend development, and MLOps ✍️. Check out my articles on [Medium](https://medium.com/@gautam75).
